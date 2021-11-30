@@ -1,0 +1,14 @@
+img{
+    width: 614px;
+    height: 700px;
+}
+
+#news{
+    position: absolute;
+    white-space: pre-line;
+    top: 175px;
+    /* bottom: 153px; */
+    left: 30px;
+    color: aliceblue;
+    width: 550px;
+}
